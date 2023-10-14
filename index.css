@@ -1,6 +1,9 @@
 /* Default styles */
 
 /* Reset some default styles for the page */
+* {
+    box-sizing: border-box;
+  }
 body {
     margin: 0;
     padding: 0;
@@ -152,3 +155,4 @@ img {
     background-color: #258cd1;
 }
 
+/* blog */
